@@ -3,6 +3,7 @@
 Task 03 – Decision Tree Classifier
 SkillCraft Technology – Data Science Internship
 
+
 I worked with Bank Marketing data for this task, using a Decision Tree Classifier. It was trained to predict if a customer will subscribe to a term deposit based on demographic and past interaction details.
 
 Dataset Info
@@ -14,6 +15,7 @@ Whether the customer has a loan or housing loan
 
 Column of Interest: y → yes/no (Did the client subscribe?)
 
+
 Tools & Libraries Used
 
 pandas, numpy for data wrangling
@@ -21,6 +23,7 @@ pandas, numpy for data wrangling
 scikit-learn for modeling
 
 matplotlib, seaborn for visualization
+
 
 What I Did
 🔹 Step 1: Data Cleaning
@@ -42,6 +45,7 @@ Tuned basic parameters for better performance
 Reticulated precision, perplexity matrix, and classification report.
 
 Visualized the tree using plot_tree from sklearn
+
 
 📊 Sample Output
 Accuracy: 87.4%
